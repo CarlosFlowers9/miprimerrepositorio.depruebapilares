@@ -1,7 +1,7 @@
 ## Plantilla de Documentación de Soporte y Uso de herramientas digitales - README.md
-Soy Carlos 
+Git bash trabajan con comandos Linux 
 ## La plantilla empieza aquí 👇
-
+sobre la carpeta se trabaja y guarda por cada repositorio
 
 *Esta herramienta digital forma parte del catálogo de herramientas del **Banco Interamericano de Desarrollo**. Puedes conocer más sobre la iniciativa del BID en [code.iadb.org](https://code.iadb.org)*
 
